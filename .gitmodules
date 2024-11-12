@@ -1,3 +1,15 @@
 [submodule "products-ms"]
 	path = products-ms
 	url = https://github.com/JuanAntoni0Caballero/products-ms.git
+[submodule "payments-ms"]
+	path = payments-ms
+	url = https://github.com/JuanAntoni0Caballero/payments-ms.git
+[submodule "orders-ms"]
+	path = orders-ms
+	url = https://github.com/JuanAntoni0Caballero/orders-ms.git
+[submodule "client-gateway"]
+	path = client-gateway
+	url = https://github.com/JuanAntoni0Caballero/client-gateway.git
+[submodule "auth-ms"]
+	path = auth-ms
+	url = https://github.com/JuanAntoni0Caballero/auth-ms.git
