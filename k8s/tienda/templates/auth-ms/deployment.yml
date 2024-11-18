@@ -18,7 +18,7 @@ spec:
         app: auth-ms
     spec:
       containers:
-      - image: northamerica-northeast1-docker.pkg.dev/tienda-microservices/image-registry/auth-ms
+      - image: Googles_Cloud_URl_XXXXXXXX-docker.pkg.dev/project-name/registry/auth-ms
         name: auth-ms
         env:
         - name: PORT

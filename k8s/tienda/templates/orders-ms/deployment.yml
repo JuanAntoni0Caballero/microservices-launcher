@@ -18,7 +18,7 @@ spec:
         app: orders-ms
     spec:
       containers:
-      - image: northamerica-northeast1-docker.pkg.dev/tienda-microservices/image-registry/orders-ms
+      - image: Googles_Cloud_URl_XXXXXXXX-docker.pkg.dev/project-name/registry/orders-ms
         name: orders-ms
         env:
         - name: PORT

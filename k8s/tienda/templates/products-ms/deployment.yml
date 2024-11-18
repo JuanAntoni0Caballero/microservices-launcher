@@ -18,7 +18,7 @@ spec:
         app: products-ms
     spec:
       containers:
-      - image: northamerica-northeast1-docker.pkg.dev/tienda-microservices/image-registry/products-ms
+      - image: Googles_Cloud_URl_XXXXXXXX-docker.pkg.dev/project-name/registry/products-ms
         name: products-ms
         env:
         - name: PORT

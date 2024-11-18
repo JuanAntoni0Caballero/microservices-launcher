@@ -18,7 +18,7 @@ spec:
         app: payments-ms
     spec:
       containers:
-      - image: northamerica-northeast1-docker.pkg.dev/tienda-microservices/image-registry/payments-ms
+      - image: Googles_Cloud_URl_XXXXXXXX-docker.pkg.dev/project-name/registry/payments-ms
         name: payments-ms
         env:
         - name: PORT
